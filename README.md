@@ -54,9 +54,9 @@ I have left out other features such as global exception handling, advanced loggi
 security (token based authentication/authorization) ...
 
 Some improvements down the road may include: 
-Non-Blocking API calls -> httpclient [6]
-Write more Integration Tests
-Caching
+- Non-Blocking API calls -> httpclient [6]
+- Write more Integration Tests
+- Caching
 
 
 ### FIXER call test
