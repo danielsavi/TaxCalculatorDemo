@@ -45,10 +45,10 @@ Since we just have one GET call, I decided to renamed it to
 /api/GetTaxesFromInvoiceDate 
 
 if we need to support all sorts of RestAPI operations, it would be:
-GET    /api/taxcalculation
-POST   /api/taxcalculation
-PUT    /api/taxcalculation
-DELETE /api/taxcalculation
+- GET    /api/taxcalculation
+- POST   /api/taxcalculation
+- PUT    /api/taxcalculation
+- DELETE /api/taxcalculation
 
 I have left out other features such as global exception handling, advanced logging, CORS, 
 security (token based authentication/authorization) ...
